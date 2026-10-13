@@ -1,6 +1,6 @@
 # Bottleneck Analyzer
 
-Ton CPU freine-t-il ta carte graphique ? Un test de 2 minutes, un verdict clair, des conseils concrets.
+Ton CPU freine-t-il ta carte graphique ? Un test de 2 minutes.
 
 **[Télécharger la dernière version](../../releases/latest)** · [Site](https://bottleneck-pc.vercel.app)
 
@@ -14,8 +14,7 @@ Windows 10 ou 11, 64 bits.
 
 ## Avertissement Windows
 
-Au premier lancement, Windows peut afficher « Windows a protégé votre ordinateur » : c'est normal pour un logiciel
-récent pas encore signé. Clique sur **Informations complémentaires** puis **Exécuter quand même**.
+Au premier lancement, Windows peut afficher « Windows a protégé votre ordinateur » : c'est normal pour un logiciel non signé. Clique sur **Informations complémentaires** puis **Exécuter quand même**.
 
 Pour vérifier que le fichier n'a pas été modifié, compare son empreinte SHA-256 avec celle indiquée dans la Release :
 
